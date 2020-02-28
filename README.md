@@ -2,3 +2,4 @@
 ###### 9:00 - Listing MVP with trello board
 ###### 10:00 - research
 ###### 11:00 - research
+###### 12:00 - build camera app tutorial using react native
