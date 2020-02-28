@@ -3,3 +3,4 @@
 ###### 10:00 - research
 ###### 11:00 - research
 ###### 12:00 - build camera app tutorial using react native
+###### 1:00 - 2:00 - build camera app tutorial using react native
