@@ -5,3 +5,4 @@
 ###### 12:00 - build camera app tutorial using react native
 ###### 1:00 - 2:00 - build camera app tutorial using react native
 ###### 3:00 - 4:00 - React Native crash course
+###### 3:00 - 4:00 - React Native crash course
